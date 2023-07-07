@@ -1,0 +1,7 @@
+pisti is an classic card game played in Turkey and has another name such as Bastra. 2 classed created : Card and Deck. Game has a funny widget written me so you can collapse game area and hide extra info and RGB widget allows you change game theme. 
+The play (from wikipedia)
+The dealer starts by dealing 1 card to each player, starting with the player on the dealer's left, until each player has 4 cards. The dealer then places 4 cards in the middle of the table, called the board. If 1 or more of the 4 cards is a jack, the dealer returns the jack(s) to the bottom of the deck and replaces it or them with the next card(s) from the top of the deck. The play begins with the player to the dealer's left, until all cards are played out. The players either collect (fish) cards from the board or add a card to the board, if they cannot fish any cards. After the cards are exhausted, the dealer then deals each player 4 more cards from the remaining deck. The dealer, however, does not deal 4 cards onto the board as done for the opening hand. The hands are played out until there are no remaining cards to be dealt.
+Game: AI controls 3 player and you can assign them any name. Program uses Ascii chars so no need any extra graphic. Deck design is not super good but playable. i designed card and card backs. 
+feel free to develop further but please try to inform me. i wonder :)
+thanks 
+devrim savas yilmaz
